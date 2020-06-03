@@ -1,2 +1,2 @@
 # Track-Meet-Scorer
-Tracks the points scored in a meet. 
+Tracks the points scored in an average high school invitational. 
